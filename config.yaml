@@ -3,9 +3,12 @@ subject: 'cat:cs.*'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
+        reinforcement: 1
+        reinforcement learning: 1
+        imitation: 1
+        imitation learning: 1
+        represenattion: 1
+        representation learning: 1
 
 # 通知の閾値
 score_threshold: 0
